@@ -1,4 +1,5 @@
 import React from 'react';
+import toggleFeature from '../actions/carFeatureActions'
 
 const AddedFeature = props => {
   return (
